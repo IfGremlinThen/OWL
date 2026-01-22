@@ -1,8 +1,5 @@
 # Open Wine Launchers
-Open Wine Launchers ("OWL") is a collection of custom launch scripts for applications using Wine or Proton. 🦉
-
-## Purpose
-To provide a uniform method of launching Windows applications on Linux from any era using a portable compilation of Wine and/or Proton.
+Open Wine Launchers ("OWL") is a collection of custom launch scripts for applications using a portable compilation of Wine and/or Proton. 🦉
 
 ## How it works
 This project assumes that you have a local folder containing a fully-functional release of Wine for 32-bit applications and Proton ([umu-launcher](https://github.com/Open-Wine-Components/umu-launcher)) for 64-bit applications.
